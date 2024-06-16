@@ -7,4 +7,4 @@
 - 📫 How to reach me: https://www.linkedin.com/in/daniel-gaio/
 - ⚡ Fun fact: I like motorcycles and bycicles
 
-[![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=danielgaio)](https://github.com/anuraghazra/github-readme-stats&show_icons=true)
+[![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=danielgaio&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
